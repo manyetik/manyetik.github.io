@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Manyetik</title>
-    <link href="/feed.xml" rel="self" />
-    <link href="" />
-    <updated>2019-07-24T10:53:25+03:00</updated>
+    <link href="https://manyetik.github.io/feed.xml" rel="self" />
+    <link href="https://manyetik.github.io" />
+    <updated>2019-07-24T10:58:18+03:00</updated>
     <author>
         <name>Ateş Su</name>
     </author>
-    <id></id>
+    <id>https://manyetik.github.io</id>
 
     <entry>
         <title>Küçük Yabancı - The Little Stranger (2018)</title>
         <author>
             <name>Ateş Su</name>
         </author>
-        <link href="/the-little-stranger/"/>
-        <id>/the-little-stranger/</id>
+        <link href="https://manyetik.github.io/the-little-stranger/"/>
+        <id>https://manyetik.github.io/the-little-stranger/</id>
 
         <updated>2019-07-24T10:41:04+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="/media/posts/5/the-little-stranger-poster.jpg" alt="Küçük Yabancı - The Little Stranger - Poster" />
+                        <img src="https://manyetik.github.io/media/posts/5/the-little-stranger-poster.jpg" alt="Küçük Yabancı - The Little Stranger - Poster" />
                     Kristal küreme şöyle bir bakıyorum da... Bu yazıyla karşılaştığınıza göre sinema ile ilgili biri olmalısınız. Bu durumda Kubrick kimdir bilmemek ve Eyes Wide Shut'ı seyretmemiş olmak ihtimaliniz epey düşük görünüyor bana :) Küçük Yabancı, bir film olarak akla gelebilecek pek çok açıdan Eyes Wide Shut'tan&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="/media/posts/5/the-little-stranger-poster.jpg" alt="Küçük Yabancı - The Little Stranger - Poster" />
+                    <img src="https://manyetik.github.io/media/posts/5/the-little-stranger-poster.jpg" alt="Küçük Yabancı - The Little Stranger - Poster" />
                 <p>Kristal küreme şöyle bir bakıyorum da... Bu yazıyla karşılaştığınıza göre sinema ile ilgili biri olmalısınız. Bu durumda Kubrick kimdir bilmemek ve Eyes Wide Shut'ı seyretmemiş olmak ihtimaliniz epey düşük görünüyor bana :)</p>
 <p>Küçük Yabancı, bir film olarak akla gelebilecek pek çok açıdan Eyes Wide Shut'tan farklı olsa da, bir meslek olarak doktorluğu benzer bir açıyla görüyor: Bir doktor, insanları tedavi etme ehliyeti nedeniyle, ait olmadığı ortamlara kabul edilebilen biridir ve ait olmadığı ortamlara girip çıkan birinin garip olaylar yaşama ihtimali yüksektir.</p>
 <p>Küçük Yabancı'nın doktoru, Eyes Wide Shut'ın doktoru gibi, daha üst sınıf bir ailenin evine, daha doğrusu malikanesine çağırılıyor fakat burada üst sınıf fakir; doktorun ücretini öderken bile zorlanıyorlar ve malikane, bakım yaptırılamadığı için dökülüyor. </p>
